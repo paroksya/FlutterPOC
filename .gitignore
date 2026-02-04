@@ -23,7 +23,6 @@
 .classpath
 .project
 .settings/
-.vscode/*
 
 # Flutter repo-specific
 /bin/cache/
@@ -490,3 +489,6 @@ plan.md
 .claude/
 
 issue/
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
